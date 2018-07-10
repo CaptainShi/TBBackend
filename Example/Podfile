@@ -1,0 +1,6 @@
+use_frameworks!
+target 'TBBackend_Tests' do
+  pod 'TBBackend', :path => '../'
+  
+  
+end
