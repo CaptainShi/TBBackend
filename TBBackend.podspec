@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'TBBackend'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of TBBackend.'
+  s.summary          = 'Turbo building the connection betweent the front end and the back end'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+Make app developers calling REST APIs easier, turbo building the connections between the frontend & the backend. Sending data to the backend & receiving data from the backend. Extract json objects from either json arrays / json objects
                        DESC
 
   s.homepage         = 'https://github.com/CaptainShi/TBBackend'

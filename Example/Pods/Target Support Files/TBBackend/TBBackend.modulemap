@@ -1,0 +1,6 @@
+framework module TBBackend {
+  umbrella header "TBBackend-umbrella.h"
+
+  export *
+  module * { export * }
+}

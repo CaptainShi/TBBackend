@@ -1,0 +1,16 @@
+PODS:
+  - TBBackend (0.1.0)
+
+DEPENDENCIES:
+  - TBBackend (from `../`)
+
+EXTERNAL SOURCES:
+  TBBackend:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TBBackend: f225e7e5f994568318c286e6c60e65d1f961536c
+
+PODFILE CHECKSUM: df1ccd2ba43f7c8aa79384751c81ed612e9c6468
+
+COCOAPODS: 1.5.3
